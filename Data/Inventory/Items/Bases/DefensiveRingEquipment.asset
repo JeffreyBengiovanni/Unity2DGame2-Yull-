@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96708be5c46baf24db574eb6397c450f, type: 3}
+  m_Name: DefensiveRingEquipment
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <SellPrice>k__BackingField: 50
+  <Name>k__BackingField: Defensive Ring
+  <Description>k__BackingField: Contains defensive magical properties.
+  <ItemImage>k__BackingField: {fileID: -56284917, guid: 9b236e3f253df264791b0ac2c75d7202, type: 3}
+  <Rarity>k__BackingField: 0
+  <DefaultParametersList>k__BackingField: []
+  <ActionSFX>k__BackingField: {fileID: 8300000, guid: f52e19227433a224980488c124c5f7e4, type: 3}
+  <BaseCategory>k__BackingField: 3
+  <BaseType>k__BackingField: 0
+  <itemLevel>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Mana>k__BackingField: 0
+  <Defense>k__BackingField: 0
+  <HealthRegen>k__BackingField: 0
+  <ManaRegen>k__BackingField: 0
+  <Movement>k__BackingField: 0
+  <isEquipable>k__BackingField: 1
